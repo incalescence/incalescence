@@ -1,5 +1,8 @@
-### Hi there 👋
+### 💻 CS Student
+### 🌼 Dreamer 
+### 🖍️Creator 
 
+I hope this Github account will serve as timecapsule, so that in a couple years time I will be able to reflect upon how much I have improved and laugh at the trivial nature of my struggles.🤭
 <!--
 **incalescence/incalescence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
