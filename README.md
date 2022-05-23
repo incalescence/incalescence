@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incalescence&layout=compact)](https://github.com/incalescence/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=incalescence)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=incalescence" alt=”incalescence” />
+
