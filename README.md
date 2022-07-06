@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incalescence&layout=compact)](https://github.com/incalescence/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=incalescence)
 
