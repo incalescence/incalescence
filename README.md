@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center"><samp> Hello there 🎀 welcome to my Github! </samp></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incalescence&layout=compact)](https://github.com/incalescence/github-readme-stats)
-
 
