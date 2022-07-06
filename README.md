@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p float="left">
-<img src="https://user-images.githubusercontent.com/81507755/177552323-45421620-cafc-4509-ae6b-3625a0d018bd.gif" height="250">
-<img src="https://user-images.githubusercontent.com/81507755/177553304-3b9af123-ce79-47ed-89c3-757e26262e49.gif" height="250">
+<img src="https://user-images.githubusercontent.com/81507755/177552323-45421620-cafc-4509-ae6b-3625a0d018bd.gif" height="200">
+<img src="https://user-images.githubusercontent.com/81507755/177553304-3b9af123-ce79-47ed-89c3-757e26262e49.gif" height="200">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=incalescence&layout=compact)](https://github.com/incalescence/github-readme-stats)
