@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=6000&color=B6977D&center=true&vCenter=true&lines=Hello+there+welcome+to+my+Github!+)](https://git.io/typing-svg)
 -->
+
 <p float="left" align="center">
 <kbd>
 <img src="https://user-images.githubusercontent.com/81507755/177553304-3b9af123-ce79-47ed-89c3-757e26262e49.gif" height="220">
@@ -21,6 +23,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/81507755/177552323-45421620-cafc-4509-ae6b-3625a0d018bd.gif" height="220">
 </kbd>
 </p>
+
 <h3 align="center"><samp> Hello there 🎀 welcome to my Github! </samp></h3>
 <p align="center"> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </p>
 <br></br>
