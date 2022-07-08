@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </kbd>
 </p>
 
-<h3 align="center"><samp> Hello there 🎀 welcome to my Github! </samp></h3>
+<h3 align="center"><samp> Hello there welcome to my Github! </samp></h3>
 <br></br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
