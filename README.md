@@ -8,6 +8,8 @@
 </p>
 
 <h3 align="center"><samp> Hello there welcome to my Github! </samp></h3>
+<h3 align="center"><samp>ˌin-kə-ˈle-sən(t)s</samp></h3>
+<h3 align="center"><samp>incalescence [noun] : a growing warm or ardent</samp></h3>
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
