@@ -9,7 +9,7 @@
 
 <h3 align="center"><samp> Hello there welcome to my Github!</samp></h3>
 <h3 align="center"><samp>ˌin-kə-ˈle-sən(t)s <br/> incalescence [noun] : a growing warm or ardent<br/> or the fuzzy feeling of your laptop heating up whilst coding well into the night ☾ </samp></h3>
-<h3 align="center"><samp> currently building <a href="https://notangles.csesoc.unsw.edu.au/">notangles</a>, a timetabling app for UNSW students.</samp></h3>
+<h3 align="center"><samp> Currently building <a href="https://notangles.csesoc.unsw.edu.au/">notangles</a>, a timetabling app for UNSW students.</samp></h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
